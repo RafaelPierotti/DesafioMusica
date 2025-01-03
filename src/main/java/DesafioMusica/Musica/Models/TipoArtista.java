@@ -1,4 +1,4 @@
-package Models;
+package DesafioMusica.Musica.Models;
 
 public enum TipoArtista {
     SOLO("solo"),
@@ -10,4 +10,5 @@ public enum TipoArtista {
     TipoArtista(String tipo){
         this.tipo = tipo;
     }
+
 }
